@@ -23,6 +23,7 @@
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
