@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sahejpalsde-dev/leetcode/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3871-count-commas-in-range-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
