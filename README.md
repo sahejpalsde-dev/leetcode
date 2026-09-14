@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sahejpalsde-dev/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -111,6 +112,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0835-image-overlap) |
 ## Counting
 |  |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
