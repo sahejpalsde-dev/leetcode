@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sahejpalsde-dev/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -103,6 +105,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -111,6 +114,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Queue
 |  |
@@ -132,4 +136,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
