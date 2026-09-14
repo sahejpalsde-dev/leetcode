@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sahejpalsde-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
