@@ -35,6 +35,7 @@
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sahejpalsde-dev/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
 | [0835-image-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -208,4 +211,24 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
