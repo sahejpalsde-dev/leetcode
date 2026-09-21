@@ -66,6 +66,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahejpalsde-dev/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahejpalsde-dev/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
 | ------- |
