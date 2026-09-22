@@ -62,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahejpalsde-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahejpalsde-dev/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
