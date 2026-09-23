@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahejpalsde-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sahejpalsde-dev/leetcode/tree/master/0038-count-and-say) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -209,6 +210,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -217,21 +219,25 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/sahejpalsde-dev/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/sahejpalsde-dev/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/sahejpalsde-dev/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
 ## Binary Indexed Tree
 |  |
