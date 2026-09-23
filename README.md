@@ -70,6 +70,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/sahejpalsde-dev/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahejpalsde-dev/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -87,6 +88,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahejpalsde-dev/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -162,6 +164,7 @@
 | [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
