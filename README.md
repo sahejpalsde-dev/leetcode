@@ -51,6 +51,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahejpalsde-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sahejpalsde-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahejpalsde-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sahejpalsde-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sahejpalsde-dev/leetcode/tree/master/0038-count-and-say) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
@@ -213,6 +215,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahejpalsde-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -275,4 +278,8 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/sahejpalsde-dev/leetcode/tree/master/1392-longest-happy-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahejpalsde-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
