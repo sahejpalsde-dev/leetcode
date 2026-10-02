@@ -28,6 +28,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sahejpalsde-dev/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
