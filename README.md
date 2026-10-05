@@ -83,6 +83,7 @@
 | [0038-count-and-say](https://github.com/sahejpalsde-dev/leetcode/tree/master/0038-count-and-say) |
 | [0678-valid-parenthesis-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
+| [0856-score-of-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -300,6 +301,7 @@
 | [0020-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -331,6 +333,7 @@
 | [0022-generate-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahejpalsde-dev/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
