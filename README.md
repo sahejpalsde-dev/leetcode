@@ -52,6 +52,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahejpalsde-dev/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahejpalsde-dev/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -133,6 +134,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahejpalsde-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahejpalsde-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahejpalsde-dev/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -142,6 +144,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahejpalsde-dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahejpalsde-dev/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
@@ -189,6 +192,7 @@
 | [0229-majority-element-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahejpalsde-dev/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -212,6 +216,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahejpalsde-dev/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
