@@ -14,6 +14,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahejpalsde-dev/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahejpalsde-dev/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/sahejpalsde-dev/leetcode/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sahejpalsde-dev/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -106,6 +107,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahejpalsde-dev/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/sahejpalsde-dev/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
