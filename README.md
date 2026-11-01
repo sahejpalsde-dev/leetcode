@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sahejpalsde-dev/leetcode/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sahejpalsde-dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahejpalsde-dev/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -40,6 +41,7 @@
 | [0239-sliding-window-maximum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sahejpalsde-dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/sahejpalsde-dev/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sahejpalsde-dev/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
