@@ -57,6 +57,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahejpalsde-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahejpalsde-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -166,6 +167,7 @@
 | [0875-koko-eating-bananas](https://github.com/sahejpalsde-dev/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahejpalsde-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahejpalsde-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahejpalsde-dev/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -235,6 +237,7 @@
 | [0229-majority-element-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahejpalsde-dev/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -313,6 +316,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahejpalsde-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
