@@ -57,6 +57,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahejpalsde-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahejpalsde-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahejpalsde-dev/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahejpalsde-dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sahejpalsde-dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -254,6 +256,7 @@
 | [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahejpalsde-dev/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahejpalsde-dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/sahejpalsde-dev/leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -264,6 +267,7 @@
 | [0169-majority-element](https://github.com/sahejpalsde-dev/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/sahejpalsde-dev/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
@@ -291,6 +295,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahejpalsde-dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -413,6 +418,7 @@
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahejpalsde-dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
