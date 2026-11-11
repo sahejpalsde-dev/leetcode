@@ -34,6 +34,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sahejpalsde-dev/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/sahejpalsde-dev/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sahejpalsde-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/sahejpalsde-dev/leetcode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -442,6 +444,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahejpalsde-dev/leetcode/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sahejpalsde-dev/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sahejpalsde-dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sahejpalsde-dev/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
