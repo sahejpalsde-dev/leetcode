@@ -15,6 +15,7 @@
 | [0836-rectangle-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahejpalsde-dev/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahejpalsde-dev/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/sahejpalsde-dev/leetcode/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahejpalsde-dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -62,6 +63,7 @@
 | [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahejpalsde-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sahejpalsde-dev/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -101,6 +103,7 @@
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahejpalsde-dev/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahejpalsde-dev/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -206,6 +209,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahejpalsde-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahejpalsde-dev/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahejpalsde-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sahejpalsde-dev/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
