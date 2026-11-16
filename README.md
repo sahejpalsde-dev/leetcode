@@ -138,6 +138,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahejpalsde-dev/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sahejpalsde-dev/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahejpalsde-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -337,6 +338,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sahejpalsde-dev/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
