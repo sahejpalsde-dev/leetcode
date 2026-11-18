@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sahejpalsde-dev/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sahejpalsde-dev/leetcode/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahejpalsde-dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0836-rectangle-overlap) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/sahejpalsde-dev/leetcode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahejpalsde-dev/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
