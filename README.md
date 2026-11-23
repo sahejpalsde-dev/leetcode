@@ -111,6 +111,7 @@
 | [0022-generate-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/sahejpalsde-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sahejpalsde-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -137,6 +138,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sahejpalsde-dev/leetcode/tree/master/0038-count-and-say) |
+| [0131-palindrome-partitioning](https://github.com/sahejpalsde-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0856-score-of-parentheses) |
@@ -467,6 +469,7 @@
 | [0040-combination-sum-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sahejpalsde-dev/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sahejpalsde-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
