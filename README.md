@@ -44,6 +44,7 @@
 | [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sahejpalsde-dev/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/sahejpalsde-dev/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahejpalsde-dev/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahejpalsde-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -138,6 +139,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sahejpalsde-dev/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sahejpalsde-dev/leetcode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/sahejpalsde-dev/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sahejpalsde-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/sahejpalsde-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/sahejpalsde-dev/leetcode/tree/master/0686-repeated-string-match) |
@@ -246,6 +248,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sahejpalsde-dev/leetcode/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahejpalsde-dev/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -298,6 +301,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahejpalsde-dev/leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/sahejpalsde-dev/leetcode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/sahejpalsde-dev/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sahejpalsde-dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sahejpalsde-dev/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -468,6 +472,7 @@
 | [0039-combination-sum](https://github.com/sahejpalsde-dev/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sahejpalsde-dev/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahejpalsde-dev/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahejpalsde-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/sahejpalsde-dev/leetcode/tree/master/1096-brace-expansion-ii) |
